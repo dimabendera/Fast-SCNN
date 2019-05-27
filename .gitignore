@@ -1,0 +1,7 @@
+.idea/*
+.ipynb_checkpoints/*
+node_modules/*
+data/autoids.json
+data/photos
+package-lock.json
+__tests__
